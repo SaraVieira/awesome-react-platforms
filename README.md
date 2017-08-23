@@ -4,7 +4,7 @@
 * [React Native](https://facebook.github.io/react-native/) - Build amazing mobile apps with react
 * [React VR](https://facebook.github.io/react-vr//) - Build imersive VR 360 experiences with React
 * [React Sketchapp](http://airbnb.io/react-sketchapp/) - Render React Components to Sketch
-* [eact Blessed](https://github.com/Yomguithereal/react-blessed) - A React custom renderer for the blessed library to create terminal apps
+* [React Blessed](https://github.com/Yomguithereal/react-blessed) - A React custom renderer for the blessed library to create terminal apps
 * [React PDF](https://github.com/diegomura/react-pdf) - Create PDF files using React
 * [Redocx](https://github.com/nitin42/redocx) - 📄 Create word documents with React
 * [React Hardware](http://iamdustan.com/react-hardware/) - React bindings for arduino’s and other physical devices
