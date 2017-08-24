@@ -7,6 +7,7 @@
 * [React Blessed](https://github.com/Yomguithereal/react-blessed) - A React custom renderer for the blessed library to create terminal apps
 * [React PDF](https://github.com/diegomura/react-pdf) - Create PDF files using React
 * [Redocx](https://github.com/nitin42/redocx) - 📄 Create word documents with React
+* [React Excel Workbook](https://github.com/ClearC2/react-excel-workbook) - Define downloadable excel workbooks with react components
 * [React Hardware](http://iamdustan.com/react-hardware/) - React bindings for arduino’s and other physical devices
 * [Victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 * [Spectacle](http://formidable.com/open-source/spectacle/) - ReactJS based Presentation Library
