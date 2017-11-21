@@ -3,6 +3,7 @@
 * [React](https://facebook.github.io/react/) - Build amazing web user interfaces
 * [React Native](https://facebook.github.io/react-native/) - Build amazing mobile apps with react
 * [React VR](https://facebook.github.io/react-vr//) - Build imersive VR 360 experiences with React
+* [React AR](https://github.com/nitin42/React-AR) - 🕶️ Augmented Reality with React (experimental WIP)
 * [React Sketchapp](http://airbnb.io/react-sketchapp/) - Render React Components to Sketch
 * [React Blessed](https://github.com/Yomguithereal/react-blessed) - A React custom renderer for the blessed library to create terminal apps
 * [React PDF](https://github.com/diegomura/react-pdf) - Create PDF files using React
