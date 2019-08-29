@@ -16,6 +16,7 @@
 * [React Mapbox GL](http://alex3165.github.io/react-mapbox-gl/) - Simple to use with declarative API WebGl Mapbox map in React.
 * [Ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 * [Spectacle](http://formidable.com/open-source/spectacle/) - A React.js based library for creating sleek presentations
+* [React GTK](https://github.com/codejamninja/react-gtk) - React Native renderer for gtk powered cross platform desktop applications that run on OSX, Linux and Windows
 
 
 # Contribute
